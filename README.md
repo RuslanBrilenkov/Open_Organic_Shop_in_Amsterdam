@@ -1,6 +1,10 @@
 # My Data Science Project
 
-A step-by-step complete Data Science project: from Business problem description to solution and implementation (with code). Using Foursquare API, Beautiful soup, Requests, Pandas, and Folium.
+## Intro
+
+A step-by-step complete Data Science project: from Business problem description to solution and implementation (with code). Using Foursquare API, Beautiful soup, Requests, Pandas, and Folium, I aquire data from the open data bases (by web scraping), perform EDA (Exploratory Data Analysis), and then make visualizations to draw the conclusions.
+
+## Motivation
 
 Nowadays, more and more people are "going green", i.e., moving towards a healthier lifestyle - not only by increasing daily movements but also by choosing the healthier products (wild-caught, locally-produced, bio+, organic  -  you name it).
 
