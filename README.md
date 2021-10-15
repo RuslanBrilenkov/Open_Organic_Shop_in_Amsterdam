@@ -15,3 +15,11 @@ The underlying reason may be an increasing knowledge about nutrition and health,
 In my view, a good business is one oriented towards values, growth, and a vision for the future. Building an organic store has the potential to bring value to our customers, make profit, and increase it in the future as more and more people will be joining this healthy movement.
 
 ### In this project, I will be exploring Amsterdam neighborhoods to find out the best place to open a new organic shop.
+
+If you would like to connect, have any questions, or suggestions, see my contacts below.
+
+## Contacts
+
+[LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
+
+[Original article](https://medium.datadriveninvestor.com/my-data-science-project-open-organic-shop-in-amsterdam-daf3d08ae16f)
