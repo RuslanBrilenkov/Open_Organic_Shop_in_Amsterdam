@@ -86,6 +86,7 @@ As a result, I create a beautiful map of Amsterdam neighborhoods, shown below:
 
 ![Amsterdam neighborhoods](https://miro.medium.com/max/1400/1*6UyLdmNE26JHS3E4SLfWEw.png)
 
+Figure above. Amsterdam neighborhood map.
 
 # Exploring Cenus Data
 
@@ -99,6 +100,8 @@ The result is shown in the following heat density map:
 
 ![heat density map of Amsterdam neighbors](https://miro.medium.com/max/1400/1*3qcKky72S-qpuIOcWNhJTA.png)
 
+Figure above. Heat/density Map of the Amsterdam neighborhoods.
+
 
 # Looking for competitors
 
@@ -110,6 +113,7 @@ The result is shown below:
 
 ![Organic shop competitors in Amsterdam](https://miro.medium.com/max/1400/1*ahrO-mBmCTIQtIiOTPPVhQ.png)
 
+Figure above. Visualizing Organic Shops of Amsterdam together with the population density.
 
 # Combining all in one visual!
 
